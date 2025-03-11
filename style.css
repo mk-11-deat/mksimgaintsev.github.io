@@ -1,0 +1,14 @@
+body{
+    color: cornsilk;
+    background-image: url('img1.jpg');
+
+}
+.a1{
+    color: rgb(0, 238, 255);
+}
+img{
+    width: 200px;
+}
+.a2{
+    color: azure;
+}
